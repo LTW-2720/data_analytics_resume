@@ -1,6 +1,6 @@
 ---
-title: "Kyle Monahan"
-author: Kyle M Monahan
+title: "Tingwei Li Resume"
+author: Tingwei Li
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -21,8 +21,8 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i>kyle.monahan@tufts.edu
-- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
+- <i class="fa fa-envelope"></i>tingwei.li@tufts.edu
+- <i class="fa fa-github"></i> [github.com/vinTYL/]
 - <i class="fa fa-phone"></i> +1 123-456-7891
 
 
