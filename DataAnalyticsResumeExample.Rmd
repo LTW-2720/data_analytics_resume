@@ -1,7 +1,7 @@
 ---
-title: "Tingwei Li Resume"
-author: Tingwei Li
-date: "`r Sys.Date()`"
+title: "Tingwei's Resume"
+author: "Tingwei Li"
+date: '`r Sys.Date()`'
 output:
   pagedown::html_resume:
     # Thanks to Eric R. Scott for this tip! 
@@ -22,7 +22,7 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i>tingwei.li@tufts.edu
-- <i class="fa fa-github"></i> [github.com/vinTYL/]
+- <i class="fa fa-github"></i> [github.com/vinTYL/](https://github.com/vinTYL/)
 - <i class="fa fa-phone"></i> +1 123-456-7891
 
 
@@ -31,15 +31,13 @@ Skills {#skills}
 
 - Experienced in running multivariate regression. 
 
-- List your **key skills**, linked to the job description.
+- **key skills: ** Python/R/SQL/Tableau
 
-- Performing **data analysis**, with a focus on engineering models
+- Performing **data analysis**, with a focus on business models
 
-- Experienced in **data communication** and client relations
+- Experienced in **data communication** and **metrics establishment**
 
-- Wrote production-level **R/Python/Stata/SQL** 
-
-- **Machine Learning** on cloud platforms (AWS)
+- **Machine Learning** and **data proccessing**
 
 
 
@@ -59,7 +57,7 @@ Main
 Tingwei Li {#title}
 --------------------------------------------------------------------------------
 
-### Data Analytics student seeking Spring 2020 internship
+### Data Analytics student seeking Summer 2021 internship
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -71,32 +69,49 @@ MS Candidate in Data Analysis
 
 Medford, MA
 
-2014--Current
+2021--Current
+
+### UCLA
+Certificate in Global Business 
+
+Los Angeles, CA
+
+2017.7--2017.8 
+
+### Jiangsu University
+
+B.A. in Industrial Engineering
+
+China 
+
+2016--2020
 
 
-### Undergraduate University
 
-B.A. in Finance
-
-Troy, NY 
-
-2008--2012
-
-
-
-Research Experience {data-icon=flask}
+Work Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+###  Data Operation Assistant
 
-Tufts University
+Mobvista Co. Ltd
 
-Medford, MA
+China
 
-2014--2019
+2021.6--2021.8
 
-- Developed research questions 
-- Provided additional guidance for undergraduate mentors
+- Collect and organize data from different Ad Platform, responsible for daily and weekly reports.  
+- Assist to review monthly statements.
+
+### Data Analysis Assistant
+
+Sunac China Holdings Ltd
+
+China
+
+2020.10--2021.12
+
+- Collect and Update the different tables in database
+- Analyze the data and perform reports 
 
 
 
@@ -117,30 +132,17 @@ Medford, MA
 <!--:::-->
 
 
+### Takeaway business analysis
 
+2020.11-2020.12
 
-### Other project
-
-Tufts University
-
-Medford, MA
-
-2015 -- 2018
-
-- Evaluated 
-- Deployed
-- Managed 
-- Use your action verbs! Attend the Crafting Your Data Science Resume workshop by Kyle Monahan
+- Understand takeaway business scenarios, analyze business processes 
+- Complete the extraction of business key metrics and corresponding business formulas 
+- Based on business processing and analysis of data sets, use Tableau to draw advanced charts and
+- Create the data monitoring dashboards
 
 
 
-Selected Presentations {data-icon=comment-alt}
---------------------------------------------------------------------------------
-### DATA-200 Final Project
-Presented a model for housing price detection, and summarized main results and assumptions of the model to my cohort. 
 
-Medford, MA
-
-March 2019
 
 
